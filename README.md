@@ -23,10 +23,14 @@ Here are some ideas to get you started:
 
 <ul>
   <li> Experimenting with CSS in 
-    <a href="https://codepen.io/cristhian-medina">Codepen</a> 
+    <a href="https://codepen.io/cristhian-medina">  
+      Codepen <img height=15 src="https://skillicons.dev/icons?i=codepen" />
+    </a> 
   </li>
   <li> And know a little more about my work in 
-    <a href="https://www.linkedin.com/in/cristhian-medina-c/">Linkedin</a> 
+    <a href="https://www.linkedin.com/in/cristhian-medina-c/" >
+      Linkedin <img height=15 src="https://skillicons.dev/icons?i=linkedin" />
+    </a> 
   </li>
 </ul>
 
@@ -42,6 +46,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
+</p>
+<p align='center'>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
@@ -67,5 +73,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Portfolio-FFFFFF?&logo=GitHub&logoColor=black&style=for-the-badge" />
   </a>
 </p>
- 
-    
+
+<hr>
+<h2>📊&nbsp;&nbsp;&nbsp;Statistics</h2>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhian-Medina&layout=compact" />
+</a>
