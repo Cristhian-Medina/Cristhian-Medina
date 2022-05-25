@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align='center'>🖖Hello there! I'm Crithian Medina 🧑‍💻</h1>
 
 <p align='center'>
-    I'm a front-end developer based in Colombia. I have worked on projects with a development environment based on React JS. I also have experience in the layout and integration of web applications using tools like GitHub. Furthermore, I able to work independently or as a team, and I enjoy learning about a wide variety of topics.
+    I'm a front-end developer based in Colombia. I have worked on projects with a development environment based on JavaScript and React JS. I also have experience in the layout and integration of web applications using tools like GitHub. Furthermore, I able to work independently or as a team, and I enjoy learning about a wide variety of topics.
 
 <hr>
 <h2>⚒&nbsp;&nbsp;&nbsp;Find me on: </h2>
