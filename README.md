@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <h2>👨‍💻&nbsp;&nbsp;&nbsp;My Portfolio</h2>
 
 <p>This is the place where you can see all the projects I've worked on &nbsp;&nbsp;
-  <a href="https://cristhian-medina.github.io/portfolio/">
+  <a href="https://cris-medina.com">
     <img src="https://img.shields.io/badge/-Portfolio-FFFFFF?&logo=GitHub&logoColor=black&style=for-the-badge" />
   </a>
 </p>
